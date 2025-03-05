@@ -1,2 +1,2 @@
-PATCH https://thqlseizvadetyxzcbtp.supabase.co/rest/v1/evaluations?id=eq.1
+POST https://thqlseizvadetyxzcbtp.supabase.co/rest/v1/works?id=eq.3
 Носков, Аюбов
