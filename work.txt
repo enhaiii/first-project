@@ -1,2 +1,2 @@
-POST https://thqlseizvadetyxzcbtp.supabase.co/rest/v1/students?id=eq.3
+GET https://thqlseizvadetyxzcbtp.supabase.co/rest/v1/evaluations?name=gt.2
 Носков, Аюбов
