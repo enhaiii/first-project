@@ -1,0 +1,2 @@
+PATCH https://thqlseizvadetyxzcbtp.supabase.co/rest/v1/evaluations?id=eq.1
+Носков, Аюбов
