@@ -3,3 +3,4 @@
 В таблице works есть колонки id она связанна с таблицей evaluations с колонкой work, name, author она связанна с таблицей student с колонкой id, description, teacher связанна с таблицей teacher колонкой id, subject, body.
 В таблице evaluations есть колонки id, name, work связанна с таблицей works с колонкой id, teacher связанна с таблицей teacher с колонкой id.
 В таблице students есть колонки id связанна с таблицей evaluations с колонкой author, full_name, group.
+В таблице teacher есть колонки id которая связанна с таблицей evaluations колонкой teacher и таблицей works колонкой teacher, full_name.
