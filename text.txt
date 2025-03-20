@@ -1,2 +1,3 @@
 Его схема базы данных находится в ветке main в файле дз.png.
 У него в бд 4 таблицы works, students, teacher, evaluations.
+В таблице works есть колонки id она связанна с таблицей evaluations с колонкой work, name, author она связанна с таблицей student с колонкой id, description, teacher связанна с таблицей teacher колонкой id, subject, body.
