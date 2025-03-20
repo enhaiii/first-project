@@ -1,1 +1,2 @@
 Его схема базы данных находится в ветке main в файле дз.png.
+У него в бд 4 таблицы works, students, teacher, evaluations.
